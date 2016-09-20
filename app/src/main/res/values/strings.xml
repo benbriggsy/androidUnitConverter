@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="title">Enter Number to Convert</string>
+    <string name="bottom_title">Converted Value:</string>
+</resources>
